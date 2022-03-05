@@ -1,0 +1,7 @@
+[Oo]bj/
+[Bb]in/
+.vs/
+logs/
+TestResults/
+connect.ini
+chat.db
